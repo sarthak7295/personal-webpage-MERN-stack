@@ -17,6 +17,5 @@ tasks.xml
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.yml
-node_modules/*.*
-node_modules/
+!.elasticbeanstalk/*.global.yml
+node_modules/
