@@ -1,2 +1,2 @@
-# personal-webpage-MERN-stack
-personal-webpage using M.E.R.N. mongo Express React Node.js
+# personal-webpage
+personal-webpage using mongo Express React Node.js work in progress !!
